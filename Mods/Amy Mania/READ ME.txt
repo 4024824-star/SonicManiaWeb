@@ -1,0 +1,70 @@
+	     
+
+	ＲＥＡＤ ＭＥ － ＡＭＹ ＭＡＮＩＡ
+
+  Thank you for Downloading Amy Mania!
+	- SHC 2020 Final Version - 
+
+
+
+	   ＩＭＰＯＲＴＡＮＴ ＩＮＦＯ
+
+Amy is 𝘖𝘝𝘌𝘙 Mighty, therefore you will need the plus DLC to use this mod.
+
+
+Additionally, if you are having issues with the mod please contact one of the developers here:
+
+Troopsushi: https://twitter.com/troopsushi
+
+Codenamegamma: https://twitter.com/Codenamegamma
+
+Gamebanana page: https://gamebanana.com/wips/50006
+
+
+
+	    ＣＯＮＴＲＯＬＳ
+
+Secondary jump button (May be mapped to A/B/L1/LB on controller or X/a different key for customized keyboard controls) = Basic Hammer Attack
+
+Jump + Jump (Activation similar to Knuckles' glide) = Heli-Hammer
+
+Run + Secondary jump button = High Jump
+
+
+
+	    ＣＲＥＤＩＴＳ
+
+Created by Troopsushi & CodenameGamma
+
+Troopsushi: Spriting, Director of project
+
+CodenameGamma: API, Abilities, dll manager, Coding
+
+WizToad: Additional Sprite-work.
+
+Phoenixity: Sound effects, Polishing, RDSK editor work, and additonal palette help
+
+NekoDoritos: 3D modelling (Special stage)
+
+SonicString: Trailer OST
+
+SuperSonic16: API and Aditional dll modding.
+
+absoluteowten: Speedrun & trailer footage
+
+(Special thanks to Motor Roach for additional help on the waiting animation)
+
+
+
+	  ＦＩＮＡＬ ＣＯＮＴＥＮＴ
+
+As this mod finally comes to a close, I wanted to end off saying thank you to all of you who have taken part, 
+suggested something, or supported the mod in one way or another. I can for sure say, that if it weren't for all 
+of you keeping me going, this project wouldn't have made it far. Keep being great, I hope you enjoy the mod!
+
+
+
+If you have any questions, concerns, technical difficulties, or issues, please contact me on Gamebanana, or through Discord @ troopsushi#4993.
+
+Thanks again!
+
